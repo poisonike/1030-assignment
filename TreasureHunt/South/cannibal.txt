@@ -1,0 +1,23 @@
+      .-.                                             .-.
+     (o.o) \\\W///                           \\\V/// (o.o)
+      |=|  #######                           #######  |=|
+       Y  //9 , 9\\                         //6 , 6\\  Y
+       |   \  =  /                           \  =  /   |
+       8'---:---:-.                         .-:---:---'B
+       |'--, `&`   \         (             /   `@` ,--'|
+       |   |'   '|> )         )  )        ( <|'   '|   |
+       |   \__.__/ /      ______(____      \ \__.__/   |
+       |   />>>>>\`      (___________)      `/{{{{{\   |
+       |  (<<<<<<<)       /         \       (}}}}}}})  |
+       |  `"|"|"|"`      /           \      `"|"|"|"`  |
+       |    | |_|       |             |       |_| |    |
+       |    | |_)   ____\             /____   (_| |    |
+       |  .-' | '-.()____'.__     __.'____().-' | '-.  |
+          `"""`"""`     .'` .'```'. `-.     `"""`"""`
+                       ().'`       `'.()
+Oh no! we ran into some cannibals. Maybe the treasure is West of here, but who knows what else we will find. You will need to create a folder to store your treasure so the cannibals do not get it.  Go back one directory  using
+the cd command.  Then use the mkdir command to create a directory named with your name.  Your command will look similar to the command below only replacing the word YourName with your name:
+
+mkdir YourName 
+
+*Make sure you are in the TreasureHunt directory when you create your new directory.  Once you have your directory created, navigate to the West directory and open the file there using Unix commands.

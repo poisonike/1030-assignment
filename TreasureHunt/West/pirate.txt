@@ -1,0 +1,22 @@
+                .-" .-. "-.
+              _/ '=(0.0)=' \_
+            /`   .='|m|'=.   `\
+            \________________ /
+        .--.__///`'-,__~\\\\~`
+       / /6|__\// a (__)-\\\\
+       \ \/--`((   ._\   ,)))
+       /  \\  ))\  -==-  (O)(
+      /    )\((((\   .  /)))))
+     /  _.' /  __(`~~~~`)__
+    //"\\,-'-"`   `~~~~\\~~`"-.
+   //  /`"              `      `\
+  //  
+Oh no! Pirates!  We are surrounded! Goblins to the North, cannibals to the South and Pirates to the West. The treasure must be to the East, but only that folder that you created is safe for your treasure. 
+ 
+Quick, you must copy or move the treasure from the East into your directory (folder) you made with your name. You will use the cp command to copy.  
+
+First go back one directory then key in the following command:
+
+cp East/treasure.txt yourname/treasure.txt  
+
+Then use Unix commands to open the treasure file that is in yourname directory.
